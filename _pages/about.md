@@ -32,8 +32,6 @@ I am a Ph.D. candidate in **Educational Psychology and Research Methodology** at
 
 With a strong background in **Statistics** from East China Normal University and ongoing doctoral training at Purdue, I specialize in **online calibration**, **computerized adaptive testing (CAT)**, and **process data analysis**. My work aims to bridge methodological rigor with practical applications in educational settings.
 
-Explore this site to learn more about my **publications**, and **research experience**. For collaboration inquiries or to connect professionally, please visit the "**About**" page or find me on **LinkedIn**.
-
 My research has been recognized and supported by the [Ross Fellowship](https://www.purdue.edu/gradschool/fellowship/funding-resources-for-students/fellowships/managed-fellowships/recruitment-fellowships.html) (2023-2027) and the **2025 Psychometric Society Vector Travel Award**.
 
 
