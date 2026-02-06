@@ -1,0 +1,93 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Educational Psychology and Research Methodology
+      institution: Purdue University, West Lafayette, United States
+      year: Present
+      description:
+        - Supported by the Ross Fellowship.
+        - Advised by Prof. <a href="https://www.education.purdue.edu/faculty-staff/faculty/hua-hua-chang/">Hua-Hua Chang</a>.
+    
+    - title: M.S. in Applied Statistics
+      institution: Purdue University, West Lafayette, United States
+      year: Present
+      description:
+        - Ongoing degree program.
+        
+    - title: M.Ed. in Educational Psychology
+      institution: East China Normal University, Shanghai, China
+      year: 2023
+      description:
+        - Graduated with distinction.
+        
+    - title: B.S. in Statistics
+      institution: East China Normal University, Shanghai, China
+      year: 2020
+      description:
+        - Graduated with distinction.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Teaching Assistant
+      institution: Department of Educational Studies, Purdue University
+      year: Aug. 2025 – Present
+      description:
+        - Supporting EDPS 32700: Classroom Assessment
+        - Assisting with course activities and instruction under the supervision of Dr. Anne Traynor
+    - title: Graduate Research Assistant
+      institution: School of Engineering Education, Purdue University
+      year: Aug. 2024 – Jul. 2025
+      description:
+        - Conducted simulation studies to support research development
+        - Developed, maintained, and refined CD-CAT algorithms
+        - Performed psychometrics and analyzed data on existing data sets
+    - title: Research Assistant
+      institution: National Science Foundation Grant No. 2141847
+      year: Dec. 2023 – Present
+      description:
+        - Assisting LASSO implementation data analysis
+        - Supporting math CD development and psychometric refinement
+        - Leading online calibration and CAT tuning procedures
+        - Leading CD-CAT parameter estimation and item-selection optimization
+    - title: Volunteer Consultant
+      institution: Psychometric Investigation Laboratory, Purdue University
+      year: Dec. 2023 – Present
+      description:
+        - Delivering presentations on Using Machine Learning to Analyze Educational Data
+        - Offering consultation with statistical methods, software support, research design, data management and cleaning
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items: 
+        - Psychometric Society Vector Travel Award
+    - year: 2023
+      items: 
+        - Ross Fellowship, Purdue University
+    - year: 2022
+      items: 
+        - National Scholarship
+        - Outstanding Student
+    - year: 2021
+      items: 
+        - Shu Qing Encouragement Scholarship
+    - year: 2020
+      items: 
+        - The Third Prize in the Contemporary Graduate Statistical Contest in Modeling
+        - The Second Prize in the COVID-19 Data Analysis Contest
+    - year: 2019
+      items: 
+        - National Encouragement Scholarship
+        - The Third Prize for the Contemporary Undergraduate Statistical Contest in Modeling
+        - Shanghai Popular Science Education Innovation Award
+        - The Meritorious Winner in the Interdisciplinary Contest in Modeling (ICM)
+
+- title: Professional Services
+  type: nested_list
+  contents:
+    - title: Journal Reviewer
+      items: 
+        - "Journal of Computerized Adaptive Testing (2025)"
+        - "Psychometrika (2025)"
