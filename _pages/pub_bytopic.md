@@ -2,7 +2,7 @@
 layout: page
 permalink: /publicationsbytopic/
 title: Publications
-topics: [Journal Articles, Book Chapters, Conference Proceedings, Work in progress]
+topics: [Work in progress, Journal Articles, Book Chapters, Conference Proceedings]
 nav: false
 ---
 <!-- _pages/publications.md -->

@@ -28,11 +28,11 @@ honors: true
 services: true
 ---
 
-I am a Ph.D. candidate in **Educational Psychology and Research Methodology** at Purdue University, working under the guidance of Professor **Hua-Hua Chang**. My research focuses on psychometrics, educational measurement, statistical modeling, and large language models.
+I am a Ph.D. candidate in **Educational Psychology and Research Methodology** at Purdue University, working under the guidance of Professor [Hua-Hua Chang](https://education.purdue.edu/about/directory/hua-hua-chang/). My research focuses on psychometrics, educational measurement, statistical modeling, and large language models.
 
 With a strong background in **Statistics** from East China Normal University and ongoing doctoral training at Purdue, I specialize in **online calibration**, **computerized adaptive testing (CAT)**, and **process data analysis**. My work aims to bridge methodological rigor with practical applications in educational settings.
 
-My research has been recognized and supported by the [Ross Fellowship](https://www.purdue.edu/gradschool/fellowship/funding-resources-for-students/fellowships/managed-fellowships/recruitment-fellowships.html) (2023-2027) and the **2025 Psychometric Society Vector Travel Award**.
+My research has been recognized and supported by the [Ross Fellowship](https://www.purdue.edu/gradschool/fellowship/funding-resources-for-students/fellowships/managed-fellowships/recruitment-fellowships.html) (2023-2027) and the [2025 Psychometric Society Vector Travel Award](https://www.psychometricsociety.org/travel-award).
 
 
 
